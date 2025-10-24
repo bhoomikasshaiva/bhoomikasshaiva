@@ -37,7 +37,9 @@
 
 ### 📊 Tools & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=powerbi,pandas,numpy,matplotlib,seaborn" />
+  <img src="https://skillicons.dev/icons?i=colab,numpy,pandas,matplotlib,seaborn" />
+  <br>
+  <span>📊 Also skilled in Statistics</span>
 </p>
 
 ### ☁️ DevOps & Tools
