@@ -1,106 +1,67 @@
-<!-- 🌙 DARK THEME GITHUB PROFILE README FOR BHUMIKA S -->
-<div align="center" style="background-color:#0d1117;color:white;">
-
-<!-- Animated Typing Title -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00E6E6&center=true&vCenter=true&width=600&lines=👩‍💻+Bhumika+S;Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Decisions" alt="Typing SVG" />
-</h1>
-
-<!-- Gradient Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00E6E6&height=100&section=header" width="100%"/>
-
-<!-- Social Links -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/bhumika-s" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/BhumikaS" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:bhumika.s.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://bhumika-portfolio.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00E6E6?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=BhumikaS&theme=dark&no-frame=true&margin-w=10&margin-h=10&column=6" />
-
----
-
-## 🧠 Tech Universe
-
-### 💻 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql" />
-</p>
-
-### 📊 Data Analytics Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-</p>
-
-### ⚙️ Other Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
----
-
-## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BhumikaS&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&line_height=24&custom_title=🚀+Bhumika's+GitHub+Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=BhumikaS&theme=tokyonight&hide_border=true&fire=00E6E6&ring=00E6E6" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhumikaS&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+    <h1>Hi there! I'm Your Name 👋</h1>
+    <h3>A passionate Your Headline from Your Location</h3>
 </div>
 
----
+<div align="center">
+    <img src="https://via.placeholder.com/800x200?text=Professional+GitHub+Profile+Banner" alt="Profile Banner" style="width:100%; max-width:800px; border-radius:10px;">
+</div>
 
-## 🌟 Featured Projects
-
-<details>
-  <summary><b>📊 Sales Insights Dashboard – Power BI</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="450">
-  </p>
-  <ul>
-    <li>Interactive Power BI dashboards for sales KPIs.</li>
-    <li>SQL used for data cleaning and DAX for metrics.</li>
-    <li>Visual insights for regions and products.</li>
-  </ul>
-</details>
+<br>
 
 <details>
-  <summary><b>📈 Data Analysis with Python</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450">
-  </p>
-  <ul>
-    <li>Data wrangling and visualization with pandas & matplotlib.</li>
-    <li>Descriptive and inferential insights.</li>
-    <li>Automated analysis pipelines with Python scripts.</li>
-  </ul>
+    <summary><h2>🚀 About Me</h2></summary>
+    <p>
+        I am a <strong>[Your Field/Role]</strong> with over <strong>[X]</strong> years of experience specializing in <strong>[Primary Tech Stack/Area]</strong>. 
+        My passion lies in <strong>[e.g., building scalable web applications, solving complex data problems, contributing to open source]</strong>. 
+    </p>
+    <ul>
+        <li>⚙️ I use *[Language 1]* and *[Language 2]* for my projects.</li>
+        <li>🔭 I’m currently working on *[Current Project Name/Goal]*.</li>
+        <li>🌱 I’m always learning *[New Technology/Concept]*.</li>
+        <li>💬 Ask me about *[Topics you are an expert in]*.</li>
+        <li>📫 How to reach me: *[Your Professional Email]*</li>
+    </ul>
 </details>
 
 ---
 
-## 🪐 Contribution Galaxy
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhumikaS&bg_color=0d1117&color=00E6E6&line=00E6E6&point=FFFFFF&area=true&hide_border=true&custom_title=🌙+Contribution+Graph"/>
+    <h2>🛠️ My Skill Set</h2>
+    <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    </p>
 </div>
 
 ---
 
-## 📊 Coding Stats
-```text
-Python       ████████████████████░░░░   80% 
-SQL          ████████████░░░░░░░░░░░   65%
-Power BI     ████████████░░░░░░░░░░░   70%
-Excel        ██████████░░░░░░░░░░░░░   55%
+<div align="center">
+    <h2>📊 GitHub Statistics</h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=nord&hide_border=true" alt="Your GitHub Stats" style="max-width:48%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=nord&hide_border=true" alt="Your Top Languages" style="max-width:48%;" />
+    </div>
+
+---
+
+<div align="center">
+    <h2>🔗 Connect With Me</h2>
+    <p>
+        <a href="YOUR_LINKEDIN_URL" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+        <a href="YOUR_TWITTER_URL" target="_blank">
+            <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+        </a>
+        <a href="YOUR_PORTFOLIO_URL" target="_blank">
+            <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+        </a>
+    </p>
+</div>
+
+<br>
+<div align="center">
+    </div>
