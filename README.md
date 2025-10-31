@@ -1,101 +1,57 @@
-<!-- 🌸 PROFESSIONAL GITHUB PROFILE README FOR BHUMIKA S -->
+<!-- 🌸 PASTEL ELEGANT GITHUB PROFILE README FOR BHUMIKA S -->
 
 <div align="center">
 
-<!-- Animated Typing Title -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=FF6F61&center=true&vCenter=true&width=600&lines=👩‍💻+Bhumika+S;Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Data+Analysis+Enthusiast" alt="Typing SVG" />
-</h1>
+<!-- Pastel Gradient Banner -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ffe5ec,100:ffc8dd&height=160&text=Bhumika%20S%20🌷&fontColor=8a5a68&fontAlignY=40&fontSize=45" />
 
-<!-- Gradient Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6F61&height=100&section=header" width="100%"/>
+### ✨ Aspiring Data Analyst | Python • SQL • Power BI ✨  
 
-<!-- Social Links -->
-<p align="center">
+</div>
+
+---
+
+### 🌷 About Me
+- 🌱 Learning **Data Science using Python**  
+- 📊 Passionate about **data analysis and visualization**  
+- 💬 Skilled in **Python, SQL, Power BI**  
+- ☕ Loves calm visuals, clear insights, and clean dashboards  
+- 🎯 Goal — Transform raw data into meaningful stories  
+
+---
+
+### 🪴 Tech Stack
+| Tools & Libraries | Skills & Interests |
+|-------------------|--------------------|
+| 🐍 Python | 📈 Data Analysis |
+| 🧮 NumPy & Pandas | 📊 Power BI & Visualization |
+| 🎨 Matplotlib & Seaborn | 🗃️ SQL Queries |
+
+---
+
+### 🌸 Connect With Me  
+<p align="left">
   <a href="https://www.linkedin.com/in/bhumika-s" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%23b8c0ff.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/bhoomikasshaiva" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:bhumikas@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://bhumikas-portfolio.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+  <a href="mailto:bhumika@example.com">
+    <img src="https://img.shields.io/badge/Email-%23ffc8dd.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🧠 Tech Universe
-
-### 💻 Languages
+### 🌿 GitHub Stats
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql" />
-</p>
-
-### 📊 Tools & Libraries
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=colab,numpy,pandas,matplotlib,seaborn" />
-  <br>
-  <span>📊 Also skilled in Statistics</span>
-</p>
-
-### ☁️ DevOps & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BhumikaS&show_icons=true&theme=rose_pine&title_color=d48ca0&icon_color=f4a7b9&text_color=8a5a68&bg_color=fffafc" height="150"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhumikaS&theme=rose_pine&ring=d48ca0&fire=f4a7b9&currStreakLabel=8a5a68&background=fffafc" height="150"/>
 </p>
 
 ---
 
-## 📈 GitHub Performance Dashboard
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhumikas&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&line_height=24&custom_title=🚀+Bhumika's+GitHub+Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bhumikas&theme=tokyonight&hide_border=true&fire=FF6F61&ring=FF6F61" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumikas&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</div>
 
----
-
-## 🪐 Contribution Galaxy
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhumikas&bg_color=0d1117&color=FF6F61&line=FF6F61&point=FFFFFF&area=true&hide_border=true&custom_title=🌟+Contribution+Graph"/>
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<details>
-  <summary><b>💼 Sales Data Analysis – Power BI Dashboard</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="450">
-  </p>
-  <ul>
-    <li>Interactive dashboard for sales insights using Power BI.</li>
-    <li>SQL-based data extraction & Python preprocessing.</li>
-    <li>Visualizations for KPIs, trends, and predictions.</li>
-  </ul>
-  <p align="center">
-    <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=power-bi&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue">
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white">
-  </p>
-</details>
-
----
-
-## ✨ About Me
-
-🎯 **Turning data into actionable insights with Python & Power BI.**  
-🌱 Currently exploring **advanced analytics & predictive modeling**.  
-💬 Ask me about **data analysis, dashboards, or SQL queries**.  
-⚡ Fun Fact: “I analyze coffee before I drink it.” ☕  
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6F61&height=100&section=footer" width="100%"/>
+🌷 *“Turning data into insights, and insights into action.”* 🌷  
 
 </div>
