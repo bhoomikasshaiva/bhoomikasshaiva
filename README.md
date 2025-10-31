@@ -5,18 +5,19 @@
 <!-- 🌷 Pastel Gradient Banner -->
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ffe5ec,100:ffc8dd&height=160&text=Bhumika%20S%20🌷&fontColor=8a5a68&fontAlignY=40&fontSize=45" />
 
-### ✨ Aspiring Data Analyst | Python • SQL • Power BI ✨  
+### 🌼 Data Analyst | Dreamer | Lifelong Learner 🌼  
+✨ Python • SQL • Power BI ✨  
 
 </div>
 
 ---
 
 ### 🌷 About Me
-- 🌱 Learning **Data Science using Python**  
+- 🌱 Currently learning **Data Science using Python**  
 - 📊 Passionate about **data analysis and visualization**  
 - 💬 Skilled in **Python, SQL, Power BI**  
-- ☕ Loves calm visuals, clean dashboards, and meaningful insights  
-- 🎯 Goal — Turn data into actionable stories  
+- ☕ Loves pastel dashboards, clean visuals & meaningful insights  
+- 🎯 Goal — Transform data into powerful, actionable stories  
 
 ---
 
@@ -34,7 +35,7 @@
   <a href="https://www.linkedin.com/in/bhumika-s-157600264/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%23b8c0ff.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:bhumika@example.com">
+  <a href="mailto:bhoomikasshaiva154@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23ffc8dd.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
