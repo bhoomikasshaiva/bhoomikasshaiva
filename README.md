@@ -31,7 +31,7 @@
 
 ### 🌸 Connect With Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/bhumika-s" target="_blank">
+  <a href="(https://www.linkedin.com/in/bhumika-s-157600264/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%23b8c0ff.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:bhumika@example.com">
