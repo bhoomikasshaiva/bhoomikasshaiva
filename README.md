@@ -5,7 +5,7 @@
 <!-- 🌷 Pastel Gradient Banner -->
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ffe5ec,100:ffc8dd&height=160&text=Bhumika%20S%20🌷&fontColor=8a5a68&fontAlignY=40&fontSize=45" />
 
-### 🌼 Data Analyst | Dreamer | Lifelong Learner 🌼  
+###  Data Analyst | Dreamer | Learner
 ✨ Python • SQL • Power BI ✨  
 
 </div>
